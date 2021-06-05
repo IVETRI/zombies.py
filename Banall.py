@@ -14,7 +14,7 @@ import regex
 
 from aiohttp import ClientSession
 
-from LaylaRobot import DRAGONS, TOKEN, pbot
+from Tamilbot import DRAGONS, TOKEN, pbot
 
 from pyrogram import Client, filters
 
